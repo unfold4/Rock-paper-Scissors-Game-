@@ -13,7 +13,7 @@ A simple browser-based Rock Paper Scissors game built with HTML, CSS, and JavaSc
 - Vanilla JavaScript
 
 ## Live Demo
-[Play it here]([your-live-link-here](https://unfold4.github.io/Rock-paper-Scissors-Game-/))
+[Play it here] [your-live-link-here](https://unfold4.github.io/Rock-paper-Scissors-Game-/)
 
 ## How to run locally
 1. Clone the repo
